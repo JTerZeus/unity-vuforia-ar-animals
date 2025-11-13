@@ -24,9 +24,23 @@ The application is built around Vuforia's Image Tracking technology.
 *   **Version Control:** Git & Git LFS (for handling large package files)
 
 ---
-## How to run
 
-For the AR magic to work, you need to print the images below. Open the app and point your device's camera at one of the printed pages to spawn the 3D animal.
+## How to Try It
+
+For the AR magic to work, you need to print the images below. Once you have built and run the app on a device, point its camera at one of the printed pages to spawn the 3D animal.
+
+### Scannable Image Targets
+
+The application is designed to recognize the following images. For the best results, print them on paper or display them clearly on another screen.
+
+| Animal      | Scannable Image                                    |
+| :---------- | :------------------------------------------------- |
+| **Dog**     | ![Dog Target](target-images/Dog.png)    |
+| **Horse**   | ![Horse Target](target-images/Horse.png)      |
+| **Kitty**   | ![Kitty Target](target-images/Kitty.png)  |
+| **Tiger**   | ![Tiger Target](target-images/Tiger.png)  |
+
+---
 
 ## How to Open in Unity
 
